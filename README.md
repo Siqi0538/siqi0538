@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on plant-herbivore network in fragmented habitats.
 - 🌱 I’m a beginner on GitHub.
 - 📫 How to reach me: dragonandthesubway@gmail.com
 - 😄 Pronouns: she/her
--->
